@@ -1,0 +1,2 @@
+# NovaPy
+Python Supernova Code
